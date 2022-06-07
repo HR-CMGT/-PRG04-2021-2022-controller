@@ -1,5 +1,6 @@
 # Simon Says met PixiJS en de CMGT arcade
 
+[Uitgewerkte versie](https://github.com/HR-CMGT/PRG04-2021-2022-controller-finished)
 Dit is een simpel spelletje, wat gebruik maakt van de controllers binnen de Arcade kast van CMGT.
 
 ![alt text](arcade.jpeg)
